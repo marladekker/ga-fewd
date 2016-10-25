@@ -1,0 +1,24 @@
+<h1>General Assembly offers Classes and Workshops Worldwide</h1>
+<br>
+
+<h2>For Immediate Release</h2>
+<br>
+<p>
+General Assembly, which started in New York as a startup incubator, now offers classes and workshops in technology, design, and entrepreneurship, with campuses around the world in:
+<ul>
+<l1>Atlanta</l1>
+<l1>Austin</l1>
+<l1>Boston</l1>
+<l1>Chicago</l1>
+<l1>Hong Kong</l1>
+<l1>London</l1>
+<l1>Los Angeles</l1>
+<l1>Melbourne</l1>
+<l1>New York City</l1>
+<l1>San Francisco</l1>
+<l1>Seattle</l1>
+<l1>Singapore</l1>
+<l1>Sydney</l1>
+<l1>Washington D.C</l1>
+<br>
+For more information, visit General Assembly's website (http://generalassemb.ly)</p>
