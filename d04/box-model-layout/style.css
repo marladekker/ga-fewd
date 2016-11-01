@@ -1,0 +1,56 @@
+h1 {
+text-align: center;
+color: rgb(250,252,252);
+}
+p {
+	text-align: center;
+}
+.purple {
+	color: purple;
+}
+.green {
+	color: green;
+}
+.yellow {
+	color: yellow;
+}
+.gray-box {
+  	width: auto;
+  	height: auto;
+  	background-color: gray;
+  	padding: 20px;
+  	border: 20px;
+  	margin: 20px;
+}
+.black-box {
+		height: auto;
+		width: auto; 
+		background-color: black;
+		padding: 10px;
+		border: 20px;
+		margin: 20px
+}
+.first-orange-box {
+	height: auto;
+	width: auto;
+	background-color: orange;
+	padding: 10px;
+	border: 20px;
+	margin: 20px
+}
+.second-orange-box {
+	height: auto;
+	width: auto;
+	background-color: orange;
+	padding: 10px;
+	border: 20px;
+	margin: 20px
+}
+.third-orange-box {
+	height: auto;
+	width: auto;
+	background-color: orange;
+	padding: 10px;
+	border: 20px;
+	margin: 20px;
+}

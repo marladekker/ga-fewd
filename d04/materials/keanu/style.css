@@ -1,0 +1,15 @@
+.grey-box {
+  	width: auto;
+  	height: auto;
+  	background-color: grey;
+  	padding: 20px;
+  	border-bottom: 20px;
+}
+	div {
+		height: 100px;
+		width: 100px; 
+		background-color: red;
+		margin: 10px;
+}
+
+
