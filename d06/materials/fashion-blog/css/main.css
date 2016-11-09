@@ -1,0 +1,70 @@
+body {
+	font-family: "Lato";
+	font-weight: 300;
+	text-align: left;
+	line-height: 1.5;	
+}
+#container {
+	width: 900px;
+	height: auto;
+	padding-left: 30px;
+}
+.date {
+	color: #cccccc;
+}
+.nav {
+	height: auto;
+	width: auto;
+	 }
+
+a {
+	color: #dddddd;
+	display: inline-block;
+	padding-right: 45px;
+	padding-bottom: 25px;
+}
+a:hover {
+	color: black; 
+}
+h1 {
+	color: red;
+	font-weight: 300;
+}
+h2 {
+	color: black;
+	font-weight: 300;
+
+}
+
+h3 {
+	color: black;
+	font-weight: 300;
+}
+h4 {
+	font-size: 15px;
+	font-weight: 300;
+}
+b {
+	color: red;
+	float: right;
+	font-weight: 700;
+	text-decoration: none;
+}
+b:hover{
+	color: #aa0000;
+}
+c {
+	color: red;
+	display: inline-block;
+	padding-right: 15px;
+	text-decoration: none;
+}
+c:hover
+{
+	color: black;
+}
+
+
+
+
+}
