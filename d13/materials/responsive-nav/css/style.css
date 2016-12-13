@@ -1,0 +1,47 @@
+
+
+header {
+	background-color: black;
+}
+
+header h1, header nav a {
+	padding: 0 15px;
+	color: white;
+}
+
+header nav {
+	text-align: right;
+	padding-top: 25px;
+}
+
+
+.hamburger {
+	height: 3px;
+	width: 24px;
+	background-color: white;
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
+
+.menu {
+		display: none;
+	}
+
+@media (max-width: 600px) {
+	header nav a {
+		text-align: center;
+		display: block;
+		margin top: 12px;
+		margin-bottom: 12px;
+		}
+
+	.menu {
+		display: inline-block;
+		
+
+	}	
+	
+}
+	
+	
+

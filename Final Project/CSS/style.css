@@ -1,0 +1,71 @@
+h1, header nav a, p {
+	font-family: 'Roboto'; 
+}
+
+.middle h2 {
+	font-family: 'Cormorant';
+}
+
+header {
+  height: 60px;
+  width: 100%;
+  overflow: hidden;
+  background-color: black;
+}
+
+h1 {
+	font-weight: 700px;
+	font-size: 24px;
+	color: white;
+	padding: 0 30px;
+}
+
+header nav {
+  text-align: right;
+  padding-top: 27px;
+  padding-bottom: 27px;
+}
+
+header nav a {
+	font-size: 13px;
+	font-weight: regular;
+	color: white;
+	padding: 30px 20px;
+	text-decoration: none;
+}
+
+.push-right {
+  float: right;
+}
+
+.middle {
+	height: 550px;
+	background-color: black;
+	width: 100%;
+	overflow: hidden;
+	
+}
+
+.middle h2 {
+	font-family: 'Cormorant';
+	font-size: 80px;
+	padding-top: 400px;
+	color: rgb(122,141,204);
+	text-align: center;
+}
+
+img.large {
+	height: 480px;
+	display: block;
+	margin: 0 auto;
+
+}
+
+
+/*.masthead {
+  padding-right: 20px;
+  background-image: url('../img/coworking.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}*/
